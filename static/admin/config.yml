@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "domaine"
     label: "domaine"
-    folder: "src/pages/domaines"
+    folder: "content/domaines"
     create: true
     editor:
       preview: false
